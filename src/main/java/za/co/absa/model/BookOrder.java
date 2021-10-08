@@ -10,7 +10,8 @@ import java.util.Date;
 public class BookOrder {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY )
+    //GenerationType.AUTO threw Table 'mydb.hibernate_sequence' doesn't exist
     private long id;
 
     @Column

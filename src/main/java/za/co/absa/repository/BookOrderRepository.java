@@ -5,6 +5,6 @@ import za.co.absa.model.BookOrder;
 
 public interface BookOrderRepository extends JpaRepository<BookOrder, Long> {
 
-    public BookOrder findByIsbn(String isbn);
+    BookOrder findByIsbn(String isbn);
 
 }

@@ -33,7 +33,7 @@ build/
 .vscode/
 
 
-#terraform
+###terraform ###
 /.terraform/**
 /.terraform/
 .terraform/**

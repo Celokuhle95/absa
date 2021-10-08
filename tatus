@@ -1,0 +1,86 @@
+[33mcommit 379b5070d12be6c5471b4d264f00321dfc757e6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Fri Oct 8 15:08:57 2021 +0200
+
+    removed wrongly tracked file
+
+[33mcommit ae2bc4e2bf1a9511d2b703d0ed5eddd6c1fe4b06[m
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Fri Oct 8 14:37:28 2021 +0200
+
+    ignore terraform providers
+
+[33mcommit 4a50e48898a03b1a8e13d3430afdd71384dddfc5[m
+Merge: 2ca4be5 602bd97
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Fri Oct 8 14:17:21 2021 +0200
+
+    Merge branch 'master' of https://github.com/Celokuhle95/absa
+
+[33mcommit 2ca4be54e5332d5ca3ea86e90269af68ef1b84b5[m
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Fri Oct 8 14:17:02 2021 +0200
+
+    made final changes
+
+[33mcommit 602bd97d278204f3e2cb12b164ea1a6d1e59e553[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Celokuhle Myeza <celokuhle.myeza@gmail.com>
+Date:   Fri Oct 8 12:37:19 2021 +0200
+
+    Create main.yml
+    
+    Added action to build to aws's Elastic Beanstalk
+
+[33mcommit 63385fedec01b18f3a876a511b442aa1a7550b4b[m
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Fri Oct 8 12:32:21 2021 +0200
+
+    removed commented terraform code
+
+[33mcommit 760bfabc7980d30b0046b94a7c0c48dcd929bcd8[m
+Merge: 8f4cba6 9f3cd44
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Wed Oct 6 13:33:53 2021 +0200
+
+    Merge branch 'master' of https://github.com/Celokuhle95/absa
+
+[33mcommit 8f4cba61a22dc91f15420527d5dc13b9f51e404a[m
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Wed Oct 6 04:08:29 2021 +0200
+
+    o-oath with github
+
+[33mcommit 9f3cd44d794120e9f930fce001ff397e20933e37[m
+Author: Celokuhle Myeza <celokuhle.myeza@gmail.com>
+Date:   Tue Oct 5 20:24:32 2021 +0200
+
+    Update run_tests.yml
+    
+    change command
+
+[33mcommit dec1ab5e89165b5673bbe66687742c131b459dd6[m
+Merge: 47034d0 49445e0
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Tue Oct 5 20:19:36 2021 +0200
+
+    merging Merge branch 'master' of https://github.com/Celokuhle95/absa
+
+[33mcommit 47034d03f9618a70a473224c6e4f5818d7cb897b[m
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Tue Oct 5 20:19:09 2021 +0200
+
+    running witho no OAuth
+
+[33mcommit 49445e09fbc126ed9690b62c74c321750cb7410a[m
+Author: Celokuhle Myeza <celokuhle.myeza@gmail.com>
+Date:   Tue Oct 5 20:14:52 2021 +0200
+
+    Create run_tests.yml
+    
+    runs tests using mvn
+
+[33mcommit af3a1ef38ececfbe755c29eda99549a304763a4f[m
+Author: Celokuhle <celokuhle@psybergate.co.za>
+Date:   Tue Oct 5 19:02:56 2021 +0200
+
+    initial after practising
